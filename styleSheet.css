@@ -1,0 +1,76 @@
+html {
+    font-size: 24px;
+    margin: 15px;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: forestgreen;
+}
+
+dt {
+    color: limegreen;
+}
+
+dd {
+    color: darkseagreen;
+}
+
+p {
+    color: darkseagreen;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+.centro {
+    text-align: center;
+    font-size: 14px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+}
+
+.formato {
+    width: 226px;
+    height: 300px;
+    margin: 64px;
+
+}
+
+.titulo {
+    display: block;
+    justify-self: center;
+    margin-bottom: 64px;
+}
+
+.perfil {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    background: rgb(180, 238, 191);
+    margin: auto;
+}
+
+.corCabecalho  {
+    color: darkslategrey;
+
+}
+
+.corpoCabecalho {
+    padding: 50px;
+}
