@@ -43,10 +43,12 @@ a {
     justify-content: space-between;
 }
 
-.formato {
+.formatoFoto {
     width: 226px;
     height: 300px;
     margin: 64px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #006400;
 
 }
 
