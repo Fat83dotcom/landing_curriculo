@@ -64,6 +64,7 @@ a {
 .container {
     background: rgb(180, 238, 191);
     margin: auto;
+    border-radius: 20px;
 }
 
 .corCabecalho  {
