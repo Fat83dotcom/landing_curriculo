@@ -65,6 +65,8 @@ a {
 }
 
 .container {
+    display: flex;
+    justify-content: space-around;
     background: rgb(180, 238, 191);
     margin: auto;
     border-radius: 20px;
