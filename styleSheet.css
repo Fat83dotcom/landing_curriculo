@@ -60,6 +60,8 @@ a {
 .perfil {
     display: flex;
     align-items: center;
+    justify-content: flex-start;
+    width: 90%;
 }
 
 .container {
@@ -69,9 +71,12 @@ a {
 }
 
 .corCabecalho  {
+    display: block;
     color: darkslategrey;
+    margin: 10px;
 }
 
 .corpoCabecalho {
     padding: 50px;
+    
 }
